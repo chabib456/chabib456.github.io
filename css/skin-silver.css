@@ -59,6 +59,10 @@ body.no-scroll {
   margin-left: -34px;
   clear: both;
 }
+.row1{
+  margin-left:0;
+  clear: both;
+}
 [class*="span"] {
   min-height: 1px;
   margin-left: 34px;
